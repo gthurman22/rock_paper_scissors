@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import random
 
 user_wins = 2
@@ -43,10 +37,3 @@ while True:
 print("You won", user_wins, "times.")
 print("The computer won", computer_wins, "times.")
 print("Goodbye!")
-
-
-# In[ ]:
-
-
-
-
